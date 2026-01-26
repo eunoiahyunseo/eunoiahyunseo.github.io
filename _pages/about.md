@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: B.S. in CS @ Kyungpook National University
 
@@ -69,6 +69,89 @@ I am currently an Research Intern at **[Visual Inteligence Lab](https://etri-vis
       <a href="https://computer.knu.ac.kr/">Computer Science</a>
     </td>
   </tr>
+</table>
+
+<br>
+
+## Experience
+
+<table style="width:100%; border-collapse: collapse; margin-top:18px;">
+
+  <tr>
+    <td style="width:25%; vertical-align: top; padding-right: 20px;">
+      <strong>Jan. 2026 – Present</strong>
+    </td>
+    <td style="width:75%; vertical-align: top;">
+      <strong>
+        <a href="https://etri-visualintelligence.github.io/">Visual Inteligence Lab</a>
+      ,
+      <a href="https://www.etri.re.kr/intro.html?t=1769390712544">ETRI</a></strong>,
+      Daejeon, South Korea<br>
+      <em>Research Intern</em><br>
+      <ul style="margin-top: 6px; margin-bottom: 0; padding-left: 18px;">
+        <li>
+          Advisor: <a href="https://cilabs.kaist.ac.kr/members/ph-d/je-seok-ham"><strong>Researcher. Jaeseok Ham</strong></a>
+        </li>
+        <li>
+          Topic: V2X, Vehicle trajectory prediction.
+        </li>
+      </ul>
+    
+    </td>
+  </tr>
+
+  <!-- spacer -->
+  <tr><td colspan="2" style="height:18px;"></td></tr>
+
+  <tr>
+    <td style="width:25%; vertical-align: top; padding-right: 20px;">
+      <strong>Jun. 2025 – Aug. 2025</strong>
+    </td>
+    <td style="width:75%; vertical-align: top;">
+      <strong>
+        <a href="https://visualai.kaist.ac.kr/">Visual AI Group</a>
+      ,
+      <a href="https://www.kaist.ac.kr/kr/">KAIST</a></strong>,
+      Daejeon, South Korea<br>
+      <em>Undergraduate Research Intern</em><br>
+      <ul style="margin-top: 6px; margin-bottom: 0; padding-left: 18px;">
+        <li>
+          Advisor: <a href="https://mhsung.github.io/"><strong>Prof. Minhyuk Sung</strong></a>
+        </li>
+        <li>
+          Topic: Discrete Diffusion/Flow models on Sketch Data
+        </li>
+      </ul>
+
+    </td>
+  </tr>
+
+  <!-- spacer -->
+  <tr><td colspan="2" style="height:18px;"></td></tr>
+
+  <tr>
+    <td style="width:25%; vertical-align: top; padding-right: 20px;">
+      <strong>Mar. 2022 – Present</strong>
+    </td>
+    <td style="width:75%; vertical-align: top;">
+      <strong>
+        <a href="https://pai.ewha.ac.kr/">PRMI Lab</a>
+      ,
+      <a href="https://www.ewha.ac.kr/ewha/index.do">Kyungpook National University</a></strong>,
+      Daegu, South Korea<br>
+      <em>Undergraduate Research Intern</em><br>
+      <ul style="margin-top: 6px; margin-bottom: 0; padding-left: 18px;">
+        <li>
+          Advisor: <a href="https://scholar.google.com/citations?user=9wo5l0QAAAAJ&hl=ko&oi=ao"><strong>Prof. Woojeung Nam</strong></a><br>
+        </li>
+        <li>
+          Topic: Pansharpening and Sar-to-Optical techniques
+        </li>
+      </ul>
+      
+    </td>
+  </tr>
+
 </table>
 
 <br>
