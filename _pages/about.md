@@ -43,8 +43,11 @@ I am currently an Research Intern at **[Visual Inteligence Lab](https://etri-vis
 <p align="center">
   <strong>
     <a href="mailto:heart20021010@gmail.com">E-mail</a> |
-    <a href="#" target="_blank">CV</a> |
-    <a href="https://github.com/eunoiahyunseo">Github</a>
+    <a href="/assets/pdf/hyunseo_cv.pdf" target="_blank">CV</a> |
+    <a href="https://www.linkedin.com/in/eunoiahyunseo/" target="_blank">Linkedin</a> |
+    <a href="https://github.com/eunoiahyunseo">Github</a> |
+    <a href="https://hyunseo-fullstackdiary.tistory.com/">Blog</a>
+
   </strong>
 </p>
 
