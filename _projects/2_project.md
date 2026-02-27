@@ -52,7 +52,7 @@ OSCAR achieves **superior perceptual quality and semantic consistency** compared
 ## Resources
 
 <div class="d-flex flex-wrap gap-2">
-<a href="https://github.com/eunoiahyunseo/OSCAR" class="btn btn-sm z-depth-0" target="_blank">
+<a href="https://github.com/eunoiahyunseo/ETRI" class="btn btn-sm z-depth-0" target="_blank">
 <i class="fab fa-github"></i> GitHub
 </a>
 <a href="https://eunoiahyunseo.github.io/OSCAR/" class="btn btn-sm z-depth-0" target="_blank">
@@ -62,3 +62,5 @@ OSCAR achieves **superior perceptual quality and semantic consistency** compared
 <i class="fas fa-file-pdf"></i> Paper
 </a>
 </div>
+
+<span style="display:none">{% cite lee2026oscaropticalawaresemanticcontrol %}</span>

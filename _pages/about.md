@@ -35,9 +35,7 @@ Put your address / P.O. box / other info right below your picture. You can also 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
 
-Hi! I am Hyunseo Lee. I am majoring in Computer Science at Kyungpook National Unversity. My research interest are in **diffusion- and flow-based generative models**, with a focus on developing a general generative framework leveraging powerful generative priors. I also Studying **RL based VLMs**, and open-minded in **cutting-edge** techniques.
-
-I am currently an Research Intern at **[Visual Inteligence Lab](https://etri-visualintelligence.github.io/), [ETRI](https://www.etri.re.kr/intro.html?t=1769346481286)**
+Hi! I am Hyunseo Lee. I am majoring in Computer Science at Kyungpook National Unversity. My research interest are in **diffusion-, flow-based generative models**, with a focus on developing a general generative framework leveraging powerful generative priors. I also researching **RL based diffusion- VL(M, A)s**, and open-minded in **cutting-edge** techniques.
 
 
 <p align="center">
@@ -96,7 +94,7 @@ I am currently an Research Intern at **[Visual Inteligence Lab](https://etri-vis
           Advisor: <a href="https://cilabs.kaist.ac.kr/members/ph-d/je-seok-ham"><strong>Researcher. Jaeseok Ham</strong></a>
         </li>
         <li>
-          Topic: V2X, Vehicle trajectory prediction.
+          Topic: Vehicle benchmark dataset construction & baseline model
         </li>
       </ul>
     
@@ -138,9 +136,9 @@ I am currently an Research Intern at **[Visual Inteligence Lab](https://etri-vis
     </td>
     <td style="width:75%; vertical-align: top;">
       <strong>
-        <a href="https://pai.ewha.ac.kr/">PRMI Lab</a>
+        <a href="https://sites.google.com/view/prmi-knu/">PRMI Lab</a>
       ,
-      <a href="https://www.ewha.ac.kr/ewha/index.do">Kyungpook National University</a></strong>,
+      <a href="https://en.knu.ac.kr/main/main.htm">Kyungpook National University</a></strong>,
       Daegu, South Korea<br>
       <em>Undergraduate Research Intern</em><br>
       <ul style="margin-top: 6px; margin-bottom: 0; padding-left: 18px;">
