@@ -56,9 +56,9 @@ ninja.data = [{
           description: "KNU PRMI Lab",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-v2x-trajectory-prediction",
-          title: 'V2X, Trajectory Prediction',
-          description: "ETRI, Visual Inteligence Lab",
+            },},{id: "projects-vehicle-benchmark",
+          title: 'Vehicle Benchmark',
+          description: "ETRI Visual Intelligence Lab",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "teachings-data-science-fundamentals",
