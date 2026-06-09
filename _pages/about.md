@@ -35,7 +35,7 @@ Put your address / P.O. box / other info right below your picture. You can also 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
 
-Hi! I am Hyunseo Lee. I am majoring in Computer Science at Kyungpook National Unversity. My research interest are in **diffusion-, flow-based generative models**, with a focus on developing a general generative framework leveraging powerful generative priors. Currently i also researching **RL based diffusion- VL(M, A)s**, **Test-Time Scaling in DIffusion Models** and open-minded in **cutting-edge** techniques.
+Hi! I am Hyunseo Lee. I am majoring in Computer Science at Kyungpook National Unversity. My research interest are in **diffusion-, flow-based generative models**, with a focus on developing a general generative framework leveraging powerful generative priors. Currently i also researching **World models**, **Test-Time Scaling in DIffusion Models** and open-minded in **cutting-edge** techniques.
 
 
 <p align="center">
